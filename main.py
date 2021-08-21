@@ -9,6 +9,8 @@ presence = "Ananas#1226"
 Prefix = ""
 #########################
 
+# do pip install discord
+
 Embed = discord.Embed
 
 client = commands.Bot(command_prefix=Prefix, intents=discord.Intents.all()) 
